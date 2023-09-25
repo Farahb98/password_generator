@@ -6,8 +6,8 @@
   }
   
   body {
-    background-color: #002339;
-    color: #fff;
+    background-color: #728f99;
+    color: #f9fbfd;
   }
 
   .container{
@@ -38,8 +38,8 @@
   }
 
   .container h1 span{
-    color: #019f55;
-    border-bottom: 4px solid #019f55;
+    color: hsl(360, 91%, 36%);
+    border-bottom: 4px solid hsl(360, 91%, 36%);
     padding-bottom: 7px;
   }
 
@@ -65,7 +65,7 @@
   .container button{
     border: 0;
     outline: 0;
-    background: #019f55;
+    background: hsl(360, 91%, 36%);
     color: #fff;
     font-size: 22px;
     font-weight: 300;
