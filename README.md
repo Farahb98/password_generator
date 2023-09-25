@@ -15,6 +15,9 @@ Random Password Generator
 
 This is a challenge provided by the university of Birmingham. Students were asked to create a password generator that included special characters. Each time the 'generate password' button is clicked, the app should provide a random password
 
+Deployed link:
+https://farahb98.github.io/password_generator/
+
 ## Technologies Used
 
 - HTML
